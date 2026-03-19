@@ -47,4 +47,4 @@ If any personal data processing is introduced in future phases (accounts/subscri
 
 ## Contact
 
-Project contact email (replace before publication): `support@smarthome-checker.com`
+Project contact email: `unifiedhomehq@gmail.com`
